@@ -5,7 +5,7 @@ repositories:
 #----------------------------------------------------------------------------
   messages/aerostack_msgs:
     type: git 
-    url: https://github.com/aerostack/aerostack_msgs
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/aerostack_msgs
     version: v5-libeccio
 
 #----------------------------------------------------------------------------
@@ -13,35 +13,35 @@ repositories:
 #----------------------------------------------------------------------------
   behaviors/attention_to_visual_markers:
     type: git 
-    url: https://github.com/aerostack/attention_to_visual_markers
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/attention_to_visual_markers
     version: v5-libeccio
   behaviors/basic_quadrotor_behaviors:
     type: git 
-    url: https://github.com/aerostack/basic_quadrotor_behaviors
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/basic_quadrotor_behaviors
     version: v5-libeccio
   behaviors/localization_with_simple_ekf:
     type: git 
-    url: https://github.com/aerostack/localization_with_simple_ekf
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/localization_with_simple_ekf
     version: v5-libeccio
   behaviors/navigation_with_lidar:
     type: git 
-    url: https://github.com/aerostack/navigation_with_lidar
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/navigation_with_lidar
     version: v5-libeccio
   behaviors/quadrotor_motion_with_pid_control:
     type: git 
-    url: https://github.com/aerostack/quadrotor_motion_with_pid_control
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/quadrotor_motion_with_pid_control
     version: v5-libeccio
   behaviors/quadrotor_motion_with_platform_control:
     type: git 
-    url: https://github.com/aerostack/quadrotor_motion_with_platform_control
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/quadrotor_motion_with_platform_control
     version: v5-libeccio
   behaviors/swarm_interaction:
     type: git 
-    url: https://github.com/aerostack/swarm_interaction
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/swarm_interaction
     version: v5-libeccio
   behaviors/quadrotor_motion_with_df_control:
     type: git 
-    url: https://github.com/aerostack/quadrotor_motion_with_df_control
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/quadrotor_motion_with_df_control
     version: v5-libeccio
 
 #----------------------------------------------------------------------------
@@ -49,19 +49,19 @@ repositories:
 #----------------------------------------------------------------------------
   belief_updaters/common_belief_updater:
     type: git 
-    url: https://github.com/aerostack/common_belief_updater
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/common_belief_updater
     version: v5-libeccio
   belief_updaters/swarm_belief_updater:
     type: git 
-    url: https://github.com/aerostack/swarm_belief_updater
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/swarm_belief_updater
     version: v5-libeccio
   belief_updaters/inventory_item_belief_updater:
     type: git 
-    url: https://github.com/aerostack/inventory_item_belief_updater
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/inventory_item_belief_updater
     version: v5-libeccio
   belief_updaters/inventory_item_image_annotator:
     type: git 
-    url: https://github.com/aerostack/inventory_item_image_annotator
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/inventory_item_image_annotator
     version: v5-libeccio
     
 #----------------------------------------------------------------------------
@@ -69,15 +69,15 @@ repositories:
 #----------------------------------------------------------------------------
   mission_control/python_based_mission_interpreter:
      type: git 
-     url: https://github.com/aerostack/python_based_mission_interpreter
+     url: https://github.com/Cranfield-Uni-AVDC-Team-A/python_based_mission_interpreter
      version: v5-libeccio
   mission_control/safety_management:
     type: git 
-    url: https://github.com/aerostack/safety_management
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/safety_management
     version: v5-libeccio
   mission_control/behavior_tree_interpreter:
     type: git 
-    url: https://github.com/aerostack/behavior_tree_interpreter
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/behavior_tree_interpreter
     version: v5-libeccio
 
 #----------------------------------------------------------------------------
@@ -89,7 +89,7 @@ repositories:
     version: v1.0
   executive/belief_manager:
     type: git
-    url: https://github.com/aerostack/belief_manager
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/belief_manager
     version: v5-libeccio
 
 #----------------------------------------------------------------------------
@@ -97,11 +97,11 @@ repositories:
 #----------------------------------------------------------------------------
   simulation/px4_autopilot:
     type: git 
-    url: https://github.com/aerostack/px4_autopilot
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/px4_autopilot
     version: v5-libeccio
   simulation/px4_simulator_plugin:
     type: git 
-    url: https://github.com/aerostack/px4_simulator_plugin
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/px4_simulator_plugin
     version: v5-libeccio
     
 #----------------------------------------------------------------------------
@@ -109,7 +109,7 @@ repositories:
 #----------------------------------------------------------------------------
   hardware_interface/pixhawk_interface:
     type: git 
-    url: https://github.com/aerostack/pixhawk_interface
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/pixhawk_interface
     version: v5-libeccio
 
 #----------------------------------------------------------------------------
@@ -117,15 +117,15 @@ repositories:
 #----------------------------------------------------------------------------
   user_interface/alphanumeric_viewer:
     type: git 
-    url: https://github.com/aerostack/alphanumeric_viewer
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/alphanumeric_viewer
     version: v5-libeccio
   user_interface/keyboard_teleoperation_with_pid_control:
     type: git 
-    url: https://github.com/aerostack/keyboard_teleoperation_with_pid_control
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/keyboard_teleoperation_with_pid_control
     version: v5-libeccio
   user_interface/map_viewer_2d:
     type: git 
-    url: https://github.com/aerostack/map_viewer_2d
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/map_viewer_2d
     version: v5-libeccio 
 
 #----------------------------------------------------------------------------
@@ -137,41 +137,57 @@ repositories:
     version: v1.0
   libraries/robot_process:
     type: git 
-    url: https://github.com/aerostack/robot_process
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/robot_process
     version: v5-libeccio
   libraries/lib_cvgekf:
     type: git 
-    url: https://github.com/aerostack/lib_cvgekf
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/lib_cvgekf
     version: v5-libeccio
   libraries/lib_cvgutils:
     type: git 
-    url: https://github.com/aerostack/lib_cvgutils
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/lib_cvgutils
     version: v5-libeccio
   libraries/mav_comm:
     type: git
-    url: https://github.com/aerostack/mav_comm
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/mav_comm
     version: v5-libeccio
   libraries/pugixml:
     type: git 
-    url: https://github.com/aerostack/pugixml
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/pugixml
     version: v5-libeccio
   libraries/ros_utils_lib:
     type: git 
-    url: https://github.com/aerostack/ros_utils_lib
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/ros_utils_lib
     version: v5-libeccio    
   libraries/catkin_simple:
     type: git
-    url: https://github.com/aerostack/catkin_simple
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/catkin_simple
     version: v5-libeccio
   libraries/eigen_catkin:
     type: git 
-    url: https://github.com/aerostack/eigen_catkin
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/eigen_catkin
     version: v5-libeccio
   libraries/glog_catkin:
     type: git 
-    url: https://github.com/aerostack/glog_catkin
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/glog_catkin
     version: v5-libeccio
     
+#----------------------------------------------------------------------------
+# Applications
+#----------------------------------------------------------------------------
+  apps/teleoperation_gazebo:
+    type: git 
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/teleoperation_gazebo
+    version: v5-libeccio
+  apps/f330_pixhawk:
+    type: git 
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/f330_pixhawk
+    version: v5-libeccio
+  apps/basic_mission_pixhawk_gazebo:
+    type: git 
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/basic_mission_pixhawk_gazebo
+    version: v5-libeccio
+
 #----------------------------------------------------------------------------
 # Example applications
 #----------------------------------------------------------------------------
@@ -183,18 +199,7 @@ repositories:
     type: git 
     url: https://github.com/aerostack/rooms_exploration_gazebo
     version: v5-libeccio
-  apps/teleoperation_gazebo:
-    type: git 
-    url: https://github.com/aerostack/teleoperation_gazebo
-    version: v5-libeccio
-  apps/f330_pixhawk:
-    type: git 
-    url: https://github.com/aerostack/f330_pixhawk
-    version: v5-libeccio
-  apps/basic_mission_pixhawk_gazebo:
-    type: git 
-    url: https://github.com/aerostack/basic_mission_pixhawk_gazebo
-    version: v5-libeccio
+  
   apps/warehouse_inventory_gazebo:
     type: git 
     url: https://github.com/aerostack/warehouse_inventory_gazebo
@@ -209,23 +214,23 @@ repositories:
 #----------------------------------------------------------------------------
   deprecated/libraries/drone_process:
     type: git 
-    url: https://github.com/aerostack/drone_process
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/drone_process
     version: v5-libeccio
   deprecated/libraries/dronemoduleinterfaceros:
     type: git 
-    url: https://github.com/aerostack/dronemoduleinterfaceros
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/dronemoduleinterfaceros
     version: v5-libeccio
   deprecated/libraries/dronemoduleros:
     type: git 
-    url: https://github.com/aerostack/dronemoduleros
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/dronemoduleros
     version: v5-libeccio
   deprecated/libraries/lib_cvglogger:
     type: git 
-    url: https://github.com/aerostack/lib_cvglogger
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/lib_cvglogger
     version: v5-libeccio
   deprecated/libraries/lib_pose:
     type: git 
-    url: https://github.com/aerostack/lib_pose
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/lib_pose
     version: v5-libeccio
 
 #----------------------------------------------------------------------------
@@ -233,5 +238,5 @@ repositories:
 #----------------------------------------------------------------------------
   deprecated/messages/dronemsgsros:
     type: git 
-    url: https://github.com/aerostack/dronemsgsros
+    url: https://github.com/Cranfield-Uni-AVDC-Team-A/dronemsgsros
     version: v5-libeccio
