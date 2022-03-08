@@ -21,4 +21,4 @@ This command installs the Aerostack workspace in a default directory (the defaul
 If you want to install the code in a different directory, you can write the installation command including the name of the directory (with the absolute path) as a second argument.\
 
 For example, the following command installs the Aerostack workspace in the directory /$HOME/develop:
-``` $ ./install_from_source.sh ./full_aerostack.repos $HOME/develop```
+``` $ ./install_from_source.sh $(Current_path_dir)/full_aerostack.repos $HOME/develop```
