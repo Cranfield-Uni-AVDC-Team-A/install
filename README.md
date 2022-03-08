@@ -15,7 +15,7 @@ To install our customized AeroStack Core Code, please follow the steps below:
 ```$ cd install```
 
 4. Execute installation command. The first argument of this command is the name of the file full_aerostack.repos (with the absolute path) that contains the list of repositories used by the application.\
-``` $ ./install_from_source.sh ./full_aerostack.repos```
+``` $ ./install_from_source.sh $(Current_path_dir)/full_aerostack.repos```
 
 This command installs the Aerostack workspace in a default directory (the default directory is $HOME).\
 If you want to install the code in a different directory, you can write the installation command including the name of the directory (with the absolute path) as a second argument.\
